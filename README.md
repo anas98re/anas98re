@@ -1,23 +1,24 @@
 # Hi there 👋, I'm Anas Alrefai
 
-### Software Engineer | Back-end Developer (Laravel)
+### Senior Backend Engineer | Core Platforms & Frameworks
 
-I'm a Back-end Developer with over 4 years of experience building scalable, clean, and maintainable software architecture. I specialize in PHP/Laravel ecosystem and have recently been engineering AI-powered solutions.
+I'm a Backend Engineer with over 4 years of experience architecting production-grade platforms, internal frameworks, and high-performance services. I specialize in the PHP/Laravel ecosystem, with a strong focus on service-oriented design, unified authentication layers (SSO), and AI-integrated backend solutions.
 
 🔒 **Note on my GitHub Activity:** 
-> *Please note that the majority of my professional work (over the last 3 years) is hosted on private Bitbucket/GitLab repositories under company NDAs. Therefore, this GitHub activity graph does not reflect my daily coding contributions.*
+> *Please note that the majority of my professional engineering work (over the last 3 years)—including internal SDKs and core frameworks—is hosted on private Bitbucket/GitLab repositories under company NDAs. Therefore, this GitHub activity graph does not reflect my daily coding contributions.*
 
 ### 🚀 What I do
-*   **Back-end & Architecture:** Architecting scalable solutions using **Clean Architecture**, Repository Pattern, and MVC.
-*   **AI Integration:** Engineering AI-powered chatbots using **OpenAI (GPT-4)** with **RAG** technology for real-time data querying.
-*   **Ecosystem:** Building complex dashboards and automated reporting using **Laravel & Filament**.
-*   **DevOps & Deployment:** Managing server infrastructure, cPanel, and automating workflows via **CI/CD pipelines**.
+* **Core Architecture & Internal SDKs:** Designing shared authentication layers (SSO), centralized API clients, and internal frameworks to standardize development across multiple sibling products.
+* **System Design & Scalability:** Implementing Clean Architecture, Service-Oriented patterns, and Modular Monoliths with a focus on high-load database optimization and fault-tolerant workflows.
+* **AI Integration:** Engineering robust AI-powered assistants using **OpenAI (GPT-4)** with **RAG** technology, utilizing streamed responses for real-time data querying.
+* **DevOps & Infrastructure:** Operating self-hosted infrastructure end-to-end, building reliable **CI/CD pipelines**, deployment automation, and production monitoring.
 
 ### 💻 Tech Stack
-*   **Languages & Frameworks:** PHP, Laravel, Filament, JavaScript, React.js (Basic), SQL.
-*   **Databases:** MySQL (Advanced indexing and query optimization).
-*   **Tools & Methodologies:** Git, Bitbucket, CI/CD, Postman, Agile/Scrum.
+* **Backend & Ecosystem:** PHP, Laravel, Filament, RESTful APIs, Internal Package/SDK Development.
+* **Architecture & Auth:** Clean Architecture, OAuth2 / SSO, Service-to-Service Auth, Action & Repository Patterns.
+* **Databases & Performance:** MySQL, High-Volume Data Access, Advanced Indexing, Query Optimization.
+* **DevOps & Tools:** CI/CD Automation, SSH-based releases, Docker, Git (Bitbucket/GitLab/GitHub), Postman.
 
 ### 📫 How to reach me
-*   **LinkedIn:** [Anas Alrefai](https://linkedin.com/in/anas-alrefai-9b3115234)
-*   **Email:** anas.ite.98@gmail.com
+* **LinkedIn:** [Anas Alrefai](https://linkedin.com/in/anas-alrefai-9b3115234)
+* **Email:** anas.ite.98@gmail.com
